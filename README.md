@@ -5,7 +5,7 @@ The purpose of this project is to analyze the weather data set of Oahu. This ana
 
 ## Results
 - Precipitation
-    - The average precipitation from August 23, 2016 to August 23, 2017 is 18%. This suggests that it does not rain majority of the year in Oauhu.
+    - The average precipitation from August 23, 2016 to August 23, 2017 is 18%. This suggests that it does not rain for the majority of the year in Oauhu.
 
     ![Precipitation Snaphot](https://github.com/kntln/Surfs_Up/blob/main/Resources/precipitation.png)
     ![Precipitation Plot Snapshot](https://github.com/kntln/Surfs_Up/blob/main/Resources/precipitation_plot.png)
