@@ -12,6 +12,7 @@ The purpose of this project is to analyze the weather data set of Oahu. This ana
 
 - June Temperature
     - The average temperature for the month of June is 75°F. The minimum temperature is 64°F and the maximum temperature is 85°F.
+ 
  ![June Temps Snaphot](https://github.com/kntln/Surfs_Up/blob/main/Resources/JuneTemps.png)
  ![June Temps Plot Snaphot](https://github.com/kntln/Surfs_Up/blob/main/Resources/JuneTemps_plot.png)
 
