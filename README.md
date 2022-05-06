@@ -1,7 +1,7 @@
 # Surfs Up Analysis
 
 ## Overview of the Analysis
-The purpose of this project is to analyze the weather data set of Oahu. This analysis will allow investors to determine the feasibility and sustainability of opening a surf's shop and ice cream shop. The weather data for the last twelve months were analyzed based on two parameters, precipitation and temperature. These two parameters are important factors that can affect the profitability of the shop. Moreoever, temperature data for the months of June and December in Oahu, will be analyzed in detail in order to determine if the surf and ice cream shop business is sustainable year-round.
+The purpose of this project is to analyze the weather data set of Oahu. This analysis will allow investors to determine the feasibility and sustainability of opening a surf's shop and ice cream shop. The weather data for the last twelve months were analyzed based on two parameters, precipitation and temperature. These two parameters are important factors that can affect the profitability of the shop. Moreoever, temperature data for the months of June and December in Oahu will be analyzed in detail in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
 - Precipitation
